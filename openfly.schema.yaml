@@ -66,7 +66,7 @@ speller:
   max_code_length: 4
   auto_select: true
   auto_select_pattern: ^;.$|^\w{4}$
-  auto_clear: max_length # manual | auto | max_length
+  auto_clear: fasle # manual | auto | max_length
 
 translator:
   dictionary: openfly
