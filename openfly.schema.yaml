@@ -24,6 +24,9 @@ switches:
     reset: 0
   - name: ascii_punct
     reset: 0
+  #二简关开
+  - name: openfly_enable_2nd_short
+    reset: 1
 
 engine:
   processors:
